@@ -1,0 +1,1 @@
+(t=>{"use strict";window.addEventListener("load",(()=>{const s=t.querySelectorAll("#submit, .shop_table.cart .actions input[type=submit], .shop_table.cart .actions .input-text");for(let o=0;o<s.length;o++){const a=t.createElement("span");a.className="form-submit-wrapper",s[o].replaceWith(a),a.appendChild(s[o])}}),{once:!0,passive:!0})})(document);
